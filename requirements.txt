@@ -1,0 +1,12 @@
+gradio
+PyPDF2
+fpdf
+python-docx
+requests
+pyperclip
+fastapi
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+google-generativeai
