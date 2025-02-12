@@ -1,10 +1,10 @@
 # Job-Application-Helper
 
-## AI Resume Analyzer and Cover Letter Generator - A HuggingFace App
+## [AI Resume Analyzer and Cover Letter Generator](https://huggingface.co/spaces/rajaatreja/ATS_Helper) - A HuggingFace App
 
 ### Overview
 
-**[Job-Application-Helper](https://huggingface.co/spaces/rajaatreja/ATS_Helper)** is an AI-powered tool designed to analyze resumes and generate personalized cover letters. It leverages the capabilities of **Gradio** for the user interface and integrates with **Google's Generative Language API** for content generation.
+**Job-Application-Helper** is an AI-powered tool designed to analyze resumes and generate personalized cover letters. It leverages the capabilities of **Gradio** for the user interface and integrates with **Google's Generative Language API** for content generation.
 
 ### Features
 
@@ -75,7 +75,3 @@ This project utilizes the following technologies:
 - [python-docx](https://python-docx.readthedocs.io/en/latest/)
 - [Requests](https://docs.python-requests.org/en/latest/)
 - [Pyperclip](https://github.com/asweigart/pyperclip)
-
----
-
-This `README.md` provides a clear overview of the project, its features, installation instructions, usage, and other relevant information.
